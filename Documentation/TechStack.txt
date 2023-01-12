@@ -1,0 +1,17 @@
+Backend:
+	ASP.NET Core
+	C#
+	Entity Framework using Code first
+	Dependency injection
+	SQL Server Database
+	Log4net for logging 
+
+Frontend:
+	React.js
+	bootstrap  
+
+Code documentation:
+	Swagger API 
+
+Unit testing:
+	X-unit framework
